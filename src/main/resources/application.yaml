@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: order-fulfillment
+
+camunda:
+  client:
+    mode: saas
+    auth:
+      client-id: X8jl2niEpGy5.O904qES6HFHW9CZoyMR
+      client-secret: ApNvQRSTufsrWNGl.Z9nd1jmaQYGyX3OhQMQXAtj4V1QAfnKR~2Pe6BNAGCYS2N1
+    cloud:
+      cluster-id: 842486ec-adc4-452f-a0fd-e57436eba90a
+      region: syd-1
